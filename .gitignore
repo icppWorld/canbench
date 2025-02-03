@@ -6,3 +6,8 @@
 .vscode/
 .idea/
 **/*~
+
+# icpp-pro related
+build/
+build-library/
+declarations/

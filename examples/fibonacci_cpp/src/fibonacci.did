@@ -1,0 +1,3 @@
+service : {
+  "fibonacci" : (nat32) -> (nat32) query;
+};

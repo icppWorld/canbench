@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "canisters": {
+    "fibonacci": {
+      "type": "custom",
+      "candid": "src/fibonacci.did",
+      "wasm": "build/fibonacci.wasm"
+    }
+  }
+}
